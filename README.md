@@ -1,1 +1,1 @@
-A Repo for ALX Low Level Programming tasks
+A repository for Structures - ALX
